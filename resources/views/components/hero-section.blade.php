@@ -3,8 +3,8 @@
 
         <div class="w-full md:w-1/2 text-center md:text-left">
             <h1
-                class="font-satoshi leading-[110%] tracking-[-2.222px] w-full md:w-[1200px] 
-                bg-gradient-to-br from-white to-transparent bg-clip-text text-transparent 
+                class="font-satoshi ease-in duration-300 leading-[110%] tracking-[-2.222px] w-full md:w-[1200px] 
+                bg-gradient-to-r from-white/90 via-white/90 to-transparent bg-clip-text text-transparent 
                 text-[50px] md:text-[100px] not-italic font-bold uppercase">
                 Experience the epitome of home comfort.
             </h1>

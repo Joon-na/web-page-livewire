@@ -17,6 +17,9 @@
         <x-hero-section />
         <x-about-content />
         <x-project-content />
+        <x-quality-content />
+        <x-strength-content />
+        <x-footer />
     </div>
 </body>
 <script src="https://cdn.tailwindcss.com"></script>

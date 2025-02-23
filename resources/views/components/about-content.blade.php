@@ -44,7 +44,7 @@
                     <p class="font-medium text-xl text-[#A0A0A0]">Rented Home Stay</p>
                 </div>
             </div>
-           
+
         </div>
     </div>
     <div class="w-full flex justify-center pt-[180px] relative">
@@ -54,5 +54,5 @@
             Dream House
         </p>
     </div>
-    
+
 </section>

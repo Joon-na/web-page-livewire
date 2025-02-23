@@ -1,8 +1,8 @@
-<section class="flex flex-col justify-center items-center bg-[#1D4734] py-10">
+<section class="flex flex-col justify-center items-center bg-[#1D4734] py-16">
     <div class="container mx-auto flex flex-row justify-between items-center mb-16">
 
         <div class="flex flex-row gap-x-7 items-center">
-            <img class="w-[122px] h-[122px]" src="/images/about-logo.svg" alt="about">
+            <img class="w-[122px] h-[122px]" src="/images/about-logo.svg" alt="the project-logo">
             <h1 class="text-white font-satoshi text-[44px] font-medium">The Project</h1>
         </div>
 
@@ -13,7 +13,7 @@
             </p>
         </div>
     </div>
-    <div class="carousel w-3/4 rounded-full">
+    <div class="carousel w-3/4 rounded-full mb-24">
         <div id="slide1" class="carousel-item relative w-full">
             <img src="https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.webp" class="w-full" />
             <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
