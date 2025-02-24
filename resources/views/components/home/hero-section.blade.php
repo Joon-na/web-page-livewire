@@ -1,7 +1,7 @@
 <main class="flex bg-[#1D4734] pt-5 min-h-screen">
     <div class="container mx-auto flex flex-col md:flex-row">
 
-        <div class="w-full md:w-1/2 text-center md:text-left">
+        <div class="w-full md:w-1/2 text-center flex flex-col items-center md:items-start md:text-left">
             <h1
                 class="font-satoshi ease-in duration-300 leading-[110%] tracking-[-2.222px] w-full md:w-[1200px] 
                 bg-gradient-to-r from-white/90 via-white/90 to-transparent bg-clip-text text-transparent 
@@ -13,7 +13,7 @@
                 Our international brand specializes in property appraisal, sales, purchases, and investments.
                 Trust us to deliver exceptional service and help you find your perfect real estate opportunity.
             </p>
-            <img class="mt-8 ml-[25px]" src="/images/logo2.png" alt="">
+            <img class="mt-8 w-auto max-w-[200px] h-auto mb-16 md:ml-[25px]" src="/images/logo2.png" alt="">
         </div>
 
         <div class="w-full md:w-1/2 flex justify-center md:justify-end mt-8 md:top-[170px] md:mt-0 relative">

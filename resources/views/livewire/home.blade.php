@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     @vite('resources/css/app.css')
     <title>Document</title>
 </head>
 
 <body>
     <div>
-        <img src="{{ asset('images/line-pattern.png') }}"
-            class="absolute top-0 right-0 w-[968.889px] h-[858.889px] pointer-events-none" alt="Line Pattern">
-        <x-nav-link />
-        <x-hero-section />
-        <x-about-content />
-        <x-project-content />
-        <x-quality-content />
-        <x-strength-content />
-        <x-footer />
+        <x-home.nav-link />
+        <x-home.hero-section />
+        <x-home.about-content />
+        <x-home.project-content />
+        <x-home.quality-content />
+        <x-home.strength-content />
+        <x-home.footer />
     </div>
 </body>
 <script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 </html>

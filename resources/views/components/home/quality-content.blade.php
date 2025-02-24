@@ -1,8 +1,8 @@
 <section class="bg-[#1D4734] py-16">
     <div class="container mx-auto">
-        <div class="flex flex-row gap-x-7 items-center">
-            <img class="w-[122px] h-[122px]" src="/images/about-logo.svg" alt="about">
-            <h1 class="text-white font-satoshi text-[44px] font-medium">The Project</h1>
+        <div class="flex flex-col md:flex-row gap-x-7 items-center text-center md:text-left">
+            <img class="w-[100px] h-[100px] md:w-[122px] md:h-[122px]" src="/images/about-logo.svg" alt="about">
+            <h1 class="text-white font-satoshi text-[32px] md:text-[44px] font-medium">Our Quality</h1>
         </div>
 
         <div class="flex flex-col md:flex-row items-center justify-between mt-10">
@@ -24,18 +24,13 @@
                 </button>
             </div>
 
-            <div class="w-full md:w-1/2 flex justify-center md:justify-end mt-10 md:mt-0 relative">
-
-                <img class="absolute w-[320px] right-[-80px] top-1/2 transform -translate-y-1/2"
-                    src="/images/quality-shadow.png" alt="quality-shadow">
-
+            <div class="w-[300px] md:mb-12 md:w-1/2 right-20 flex justify-center md:justify-end mt-10 md:mt-0 relative">
+                <img class="absolute w-[450px] right-[-80px] top-1/2 transform -translate-y-1/2"
+                    src="/images/shadow-quality.png" alt="quality-shadow">
                 <img class="max-w-full md:right-7 md:max-w-[550px] relative" src="/images/quality-image.png" alt="quality-image">
-
                 <img class="absolute bottom-[-150px] left-1/2 transform -translate-x-1/4" src="/images/arrow-hero.png"
                     alt="arrow-hero">
             </div>
-
-
         </div>
     </div>
 </section>
