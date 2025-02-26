@@ -1,7 +1,7 @@
 <section class="pt-[80px] pb-[80px] bg-black">
     <div class="container mx-auto px-6 flex flex-col lg:flex-row justify-between items-center">
         <div class="w-full lg:w-1/2 flex flex-col md:gap-y-72 text-center lg:text-left">
-            <div class="flex flex-col lg:flex-row mb-12 lg:mb-[150px] items-center lg:items-start gap-x-7">
+            <div class="flex flex-col lg:flex-row mb-12 lg:mb-[150px] items-center gap-x-7">
                 <img class="w-[100px] h-[100px] lg:w-[122px] lg:h-[122px]" src="/images/about-logo.svg" alt="about">
                 <h1 class="text-white font-satoshi text-[36px] lg:text-[44px] font-medium">About us</h1>
             </div>
